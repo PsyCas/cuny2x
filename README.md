@@ -1,1 +1,1 @@
-# https://github.com/PsyCas/DiceGame
+# https://github.com/PsyCas/EquiScreen
